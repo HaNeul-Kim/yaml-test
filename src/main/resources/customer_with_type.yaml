@@ -1,0 +1,4 @@
+!!com.tistory.hskimsky.yaml.model.Customer
+firstName: "John"
+lastName: "Doe"
+age: 20
